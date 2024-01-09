@@ -1,1 +1,1 @@
-# Cronometro - Em andamento
+# Cronometro - (Em andamento)
